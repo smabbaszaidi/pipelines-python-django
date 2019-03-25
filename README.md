@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TSG-PMO/Sample_MA/_apis/build/status/syedmanzarabbaszaidi.pipelines-python-django?branchName=master)](https://dev.azure.com/TSG-PMO/Sample_MA/_build/latest?definitionId=3&branchName=master)
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
